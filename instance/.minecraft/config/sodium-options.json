@@ -1,6 +1,6 @@
 {
   "quality": {
-    "weather_quality": "DEFAULT",
+    "weather_quality": "FAST",
     "enable_vignette": true
   },
   "advanced": {
@@ -16,6 +16,6 @@
     "max_pre_rendered_frames": 3
   },
   "notifications": {
-    "hide_donation_button": true
+    "hide_donation_button": false
   }
 }

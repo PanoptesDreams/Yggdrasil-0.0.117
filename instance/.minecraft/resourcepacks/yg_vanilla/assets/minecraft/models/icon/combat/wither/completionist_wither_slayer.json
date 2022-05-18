@@ -1,7 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "icon/combat/challenge_layer",
-		"layer1": "icon/combat/wither/wither"
-	}
-}

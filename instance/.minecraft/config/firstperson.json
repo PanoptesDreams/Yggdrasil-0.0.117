@@ -12,9 +12,9 @@
   },
   "paperDoll": {
     "dollEnabled": true,
-    "location": "TOP_LEFT",
+    "location": "BOTTOM_RIGHT",
     "dollXOffset": 4,
-    "dollYOffset": -8,
+    "dollYOffset": -40,
     "dollSize": -6,
     "dollLookingSides": 20,
     "dollLookingUpDown": -20,

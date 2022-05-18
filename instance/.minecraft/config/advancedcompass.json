@@ -12,6 +12,7 @@
   "overlap_threshold": 3,
   "hide_overlapped": true,
   "auto_death_waypoint": true,
+  "hide_behind": false,
   "show_mode": "ANY_SLOT",
   "coordinates_mode": "BELOW",
   "generation_type": "HEAD_FIRST",

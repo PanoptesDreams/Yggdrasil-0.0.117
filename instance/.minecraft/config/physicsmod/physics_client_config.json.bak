@@ -1,0 +1,38 @@
+{
+  "mobPhysicsType": 3,
+  "blockPhysicsNew": 0,
+  "maxPhysicsObjects": 80,
+  "blockPhysicsScale": 0.32999998331069946,
+  "particleLifetime": 3.4000000953674316,
+  "cpuThreads": 1,
+  "itemPhysics": false,
+  "minecraftBlockBreakParticles": false,
+  "customizedGravities": [
+    "minecraft:overworld",
+    0.0,
+    -9.81,
+    0.0,
+    "minecraft:the_nether",
+    0.0,
+    -9.81,
+    0.0,
+    "minecraft:the_end",
+    0.0,
+    -9.81,
+    0.0
+  ],
+  "customizedBuoyancies": [
+    "minecraft:overworld",
+    0.0,
+    2.0,
+    0.0,
+    "minecraft:the_nether",
+    0.0,
+    2.0,
+    0.0,
+    "minecraft:the_end",
+    0.0,
+    2.0,
+    0.0
+  ]
+}

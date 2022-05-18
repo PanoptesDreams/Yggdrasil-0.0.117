@@ -1,8 +1,8 @@
 {
   "builtinServers": [
     {
-      "name": "Yggdrasil Minecraft",
-      "address": "play.yggdrasilmc.com"
+      "name": "Yggdrasil Vanilla",
+      "address": "vanilla.yggdrasilmc.com"
     }
   ]
 }
