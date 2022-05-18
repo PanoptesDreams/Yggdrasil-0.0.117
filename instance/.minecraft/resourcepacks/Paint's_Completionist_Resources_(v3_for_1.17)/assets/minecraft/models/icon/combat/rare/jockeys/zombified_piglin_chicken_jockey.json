@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "icon/combat/rare/jockeys/zombified_piglin_chicken_jockey"
+	}
+}

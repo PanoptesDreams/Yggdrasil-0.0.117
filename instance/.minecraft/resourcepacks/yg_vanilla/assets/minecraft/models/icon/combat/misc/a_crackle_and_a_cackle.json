@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "icon/combat/misc/a_crackle_and_a_cackle"
+	}
+}

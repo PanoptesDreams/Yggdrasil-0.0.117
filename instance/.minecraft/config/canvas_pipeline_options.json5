@@ -1,0 +1,18 @@
+{
+	"canvas:basic_light_config": {
+		"ao_shading_mode": "normal",
+		"diffuse_shading_mode": "normal"
+	},
+	"canvas:fog_config": {
+		"fog_mode": "subtle"
+	},
+	"canvas:handheld_light_config": {
+		"handheld_light_radius": 14
+	},
+	"canvas:bloom_config": {
+		"bloom_intensity": 0.8,
+		"bloom_downsample_dist": 0.8,
+		"bloom_upsample_dist": 0.05,
+		"bloom_cutoff": 0.02
+	}
+}

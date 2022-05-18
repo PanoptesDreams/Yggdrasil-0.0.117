@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "icon/combat/wither/nether_background",
+		"layer1": "icon/combat/wither/wither"
+	}
+}

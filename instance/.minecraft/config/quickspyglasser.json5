@@ -1,0 +1,7 @@
+{
+	"showSpyglassOverlay": false,
+	"playSpyglassSound": true,
+	"smoothZoom": true,
+	"mouseSensitivity": 100,
+	"quickSpyglassItemId": "minecraft:spyglass"
+}
