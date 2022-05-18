@@ -1,0 +1,58 @@
+EXTRA PANORAMAS – RESOURCE PACK BY POMIK108
+-------------------------------------------
+
+Seed of world used (1.16.4): Biome Panoramas
+
+Render distance used: 20 chunks
+
+Panorama coordinates (Note: may not be completely accurate.):
+
+Snowy Tundra: 1094 89 1231
+Ice Spikes: 16971 91 -1441
+Snowy Taiga: 17367 91 -1032
+Frozen River: 17506 84 -1333
+Mountains: 16823 116 -1774
+Taiga: 16653 84 -1038
+Giant Tree Taiga: 17375 89 3706
+Plains: 16342 87 -1277
+Forest: 16547 85 -1308
+Flower Forest: 7882 74 5172
+Birch Forest: 7051 88 4256
+Tall Birch Forest: 6108 78 7916
+Dark Forest: 5686 81 8035
+Swamp: 7397 74 4283
+Jungle: 7862 88 3275
+River: 7308 84 3191
+Beach: 7753 64 3089
+Mushroom Fields: 11735 81 16173
+Desert: 8299 78 5168
+Savanna: 8143 82 5401
+Shattered Savanna: 10446 132 8134
+Badlands: 16053 79 5403
+Warm Ocean: 15231 53 622
+Lukewarm Ocean: 15063 56 802
+Ocean: 14322 49 1251
+Frozen Ocean: 15829 79 2620
+Nether Wastes: 1971 82 368
+Soul Sand Valley: 1825 91 397
+Crimson Forest: 2431 94 474
+Warped Forest: 2452 85 -174
+Basalt Deltas: 2418 74 -514
+The End: 34 86 -19
+
+End City: 4239 149 -1803
+Ruined Portal: 16385 70 -1027
+Ocean Ruins: 430 38 -3497
+Ocean Monument: -2871 55 -6843
+Desert Temple: -3325 71 -5789
+Igloo: -4946 70 -7506
+Jungle Temple: -1751 71 -6429
+Pillager Outpost: -1988 83 -5032
+Swamp Hut: -758 72 -3447
+Desert Village: 8263 79 5249
+Snowy Village: -4822 79 -7528
+Savanna Village: 8015 80 5175
+Taiga Village: 258 86 182
+Woodland Mansion: 8158 112 -5898
+Bastion Remnant: 35 63 -1132
+Nether Fortress: 69 66 -740

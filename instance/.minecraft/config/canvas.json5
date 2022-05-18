@@ -1,12 +1,14 @@
 {
 	// Renderer configuration. Determines appearance, performance and available options.
-	"pipelineId": "canvas:pipelines/canvas_basic.json",
+	"pipelineId": "canvas:pipelines/canvas_standard.json",
 	// Glow effect around light sources.
 	"wavyGrass": true,
 	// Enable rendering of internal buffers for debug purposes. Off by default to prevent accidental activation.
 	"enableBufferDebug": false,
 	// Output load/reload trace data to log. Will have performance impact.
 	"enableLifeCycleDebug": false,
+	// Method used to transfer data to GPU. AUTO is recommended but performance can be specific to your system. Other options are DIRECT, HYBRID, and MAPPED
+	"transferBufferMode": "AUTO",
 	// Fluid biome colors are blended at block corners to avoid patchy appearance. Slight performance impact to chunk loading.
 	"blendFluidColors": true,
 	// Makes light sources less cross-shaped. Chunk loading a little slower. Overall light levels remain similar.
@@ -35,6 +37,10 @@
 	"dynamicFrustumPadding": 20,
 	// Culls particles that are not in view. Should always be faster.
 	"cullParticles": true,
+	// Use Canvas thread pool for rendering and local server tasks. May reduce lag spikes caused by thread contention.
+	"useCombinedThreadPool": true,
+	// When enabled, F3 debug screen output is refreshed 20X per second instead of every frame. Improves accuracy and reduces variability of FPS measurement.
+	"steadyDebugScreen": true,
 	// Output runtime per-material shader source. For shader development debugging.
 	"shaderDebug": false,
 	// Summarizes multiple errors and warnings to single-line entries in the log.

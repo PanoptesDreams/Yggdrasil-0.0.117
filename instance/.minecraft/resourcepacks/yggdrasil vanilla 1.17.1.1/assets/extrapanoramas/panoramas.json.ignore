@@ -1,0 +1,359 @@
+{
+ "birch_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/birch_forest/panorama"
+         }
+     ]
+ },
+ "dark_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/dark_forest/panorama"
+         }
+     ]
+ },
+ "flower_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/flower_forest/panorama"
+         }
+     ]
+ },
+ "forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/forest/panorama"
+         }
+     ]
+ },
+ "frozen_river": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/frozen_river/panorama"
+         }
+     ]
+ },
+ "giant_tree_taiga": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/giant_tree_taiga/panorama"
+         }
+     ]
+ },
+ "ice_spikes": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/ice_spikes/panorama"
+         }
+     ]
+ },
+ "mountains": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/mountains/panorama"
+         }
+     ]
+ },
+ "plains": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/plains/panorama"
+         }
+     ]
+ },
+ "snowy_taiga": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/snowy_taiga/panorama"
+         }
+     ]
+ },
+ "snowy_tundra": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/snowy_tundra/panorama"
+         }
+     ]
+ },
+ "taiga": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/taiga/panorama"
+         }
+     ]
+ },
+ "nether_vanilla": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/nether_vanilla/panorama"
+         }
+     ]
+ },
+ "tall_birch_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/tall_birch_forest/panorama"
+         }
+     ]
+ },
+ "swamp": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/swamp/panorama"
+         }
+     ]
+ },
+ "jungle": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/jungle/panorama"
+         }
+     ]
+ },
+ "beach": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/beach/panorama"
+         }
+     ]
+ },
+ "river": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/river/panorama"
+         }
+     ]
+ },
+ "mushroom_fields": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/mushroom_fields/panorama"
+         }
+     ]
+ },
+ "desert": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/desert/panorama"
+         }
+     ]
+ },
+ "savanna": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/savanna/panorama"
+         }
+     ]
+ },
+ "shattered_savanna": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/shattered_savanna/panorama"
+         }
+     ]
+ },
+ "badlands": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/badlands/panorama"
+         }
+     ]
+ },
+ "warm_ocean": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/warm_ocean/panorama"
+         }
+     ]
+ },
+ "lukewarm_ocean": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/lukewarm_ocean/panorama"
+         }
+     ]
+ },
+ "ocean": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/ocean/panorama"
+         }
+     ]
+ },
+ "frozen_ocean": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/frozen_ocean/panorama"
+         }
+     ]
+ },
+ "nether_wastes": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/nether_wastes/panorama"
+         }
+     ]
+ },
+ "soul_sand_valley": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/soul_sand_valley/panorama"
+         }
+     ]
+ },
+ "crimson_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/crimson_forest/panorama"
+         }
+     ]
+ },
+ "warped_forest": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/warped_forest/panorama"
+         }
+     ]
+ },
+ "basalt_deltas": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/basalt_deltas/panorama"
+         }
+     ]
+ },
+ "the_end": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/the_end/panorama"
+         }
+     ]
+ },
+ "outer_end": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/biomes/outer_end/panorama"
+         }
+     ]
+ },
+ "end_city": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/end_city/panorama"
+         }
+     ]
+ },
+ "ruined_portal": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/ruined_portal/panorama"
+         }
+     ]
+ },
+ "ocean_ruins": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/ocean_ruins/panorama"
+         }
+     ]
+ },
+ "ocean_monument": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/ocean_monument/panorama"
+         }
+     ]
+ },
+ "desert_temple": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/desert_temple/panorama"
+         }
+     ]
+ },
+ "igloo": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/igloo/panorama"
+         }
+     ]
+ },
+ "jungle_temple": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/jungle_temple/panorama"
+         }
+     ]
+ },
+ "swamp_hut": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/swamp_hut/panorama"
+         }
+     ]
+ },
+ "desert_village": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/desert_village/panorama"
+         }
+     ]
+ },
+ "snowy_village": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/snowy_village/panorama"
+         }
+     ]
+ },
+ "savanna_village": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/savanna_village/panorama"
+         }
+     ]
+ },
+ "taiga_village": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/taiga_village/panorama"
+         }
+     ]
+ },
+ "plains_village": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/plains_village/panorama"
+         }
+     ]
+ },
+ "woodland_mansion": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/woodland_mansion/panorama"
+         }
+     ]
+ },
+ "bastion_remnant": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/bastion_remnant/panorama"
+         }
+     ]
+ },
+ "nether_fortress": {
+     "panoramas": [
+         {
+             "backgroundId": "extrapanoramas:panoramas/structures/nether_fortress/panorama"
+         }
+     ]
+ },
+ "cave_vanilla": {
+     "panoramas": [
+         {
+             "backgroundId": "minecraft:textures/gui/title/background/panorama"
+         }
+     ]
+ }
+}

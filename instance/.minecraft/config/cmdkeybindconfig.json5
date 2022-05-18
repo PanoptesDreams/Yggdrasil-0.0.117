@@ -1,0 +1,29 @@
+{
+	"enabled": true,
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.keypad.7",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/home",
+			// Type of Macro. Delayed, Repeating, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+			// Delay(Milliseconds) used for the delay type.
+			"delay": 100
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.tab",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/ec",
+			// Type of Macro. Delayed, Repeating, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+			// Delay(Milliseconds) used for the delay type.
+			"delay": 0
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "enableArmorSwap": true,
+  "armorSwapBlackList": [],
+  "enableTranslationFetching": false,
+  "enablePickFillsStack": false,
+  "enablePickNeverChangesSlot": false,
+  "dragMatchingStacksAcrossInventories": true,
+  "chooseBottomRowStacksFirst": true,
+  "depositCursorStackOnRelease": "AT_HOVERED_SLOT",
+  "dragSingleStackOutOfInventory": true,
+  "dragMatchingStacksOutOfInventory": "DISABLED",
+  "ignoreStackNbt": false,
+  "enableShiftClickToOffhandStack": false,
+  "allFoodIsOffhandPreferred": false,
+  "excludeFoodWithNegativeEffects": true,
+  "offhandPreferredItems": [
+    "minecraft:torch",
+    "minecraft:totem_of_undying",
+    "minecraft:firework_rocket",
+    "minecraft:shield"
+  ]
+}

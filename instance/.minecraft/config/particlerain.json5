@@ -1,0 +1,12 @@
+{
+	"particleDensity": 69,
+	"particleStormDensity": 333,
+	"particleRadius": 13,
+	"rainDropGravity": 0.8899999856948853,
+	"snowFlakeGravity": 0.12999999523162842,
+	"desertDustGravity": 0.33000001311302185,
+	"renderVanillaWeather": false,
+	"doRainParticles": true,
+	"doSnowParticles": true,
+	"doSandParticles": true
+}

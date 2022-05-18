@@ -17,7 +17,7 @@
 		/* If on, the preview is always displayed, regardless of the preview key being pressed.
 		   (default value: false)
 		*/
-		"alwaysOn": false,
+		"alwaysOn": true,
 		/* In compact mode, how should items with the same ID but different NBT data be compacted?
 		   IGNORE: Ignores NBT data
 		   FIRST_ITEM: Items are displayed as all having the same NBT as the first item
@@ -63,14 +63,14 @@
 		/* Controls whether the key hints in the container's tooltip should be displayed.
 		   (default value: true)
 		*/
-		"showKeyHints": true,
+		"showKeyHints": false,
 		/* The tooltip to use.
 		   VANILLA: The vanilla tooltip (shows the first 5 items)
 		   MOD: The mod's tooltip
 		   NONE: No tooltip
 		   (default value: MOD)
 		*/
-		"type": "MOD",
+		"type": "NONE",
 		/* Shows info about the current loot table of the item if present.
 		   Visible only when Tooltip Type is set to Modded.
 		   HIDE: No loot table info, default.
@@ -90,13 +90,13 @@
 		   (default value: key.keyboard.left.shift)
 		*/
 		"previewKey": {
-			"code": "key.keyboard.left.shift"
+			"code": "key.keyboard.unknown"
 		},
 		/* Press this key when hovering a container stack to open the full preview window.
 		   (default value: key.keyboard.left.alt)
 		*/
 		"fullPreviewKey": {
-			"code": "key.keyboard.left.alt"
+			"code": "key.keyboard.unknown"
 		}
 	},
 	"server": {

@@ -3,7 +3,7 @@
     "net.minecraft.class_408"
   ],
   "fadeTimeMillis": 300,
-  "radius": 6,
+  "radius": 33,
   "gradientStartColor": 75000000,
   "gradientEndColor": 75000000
 }
