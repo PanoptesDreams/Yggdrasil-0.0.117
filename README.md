@@ -7,14 +7,14 @@ Yggdrasil built on Minecraft 1.17
 
 Hardware:
 
-Minimum:
-4GB System Memory
-128MB Video Memory
-540MB+ Disk Storage
+Minimum: 
+4 GB System Memory, 
+128 MB Video Memory, 
+540 MB+ Disk Storage 
 
-Recomended:
-12GB System Memory
-4BG Video Memory
+Recomended: 
+12 GB System Memory, 
+4 GB Video Memory, 
 ♾ Disk Storage 
 
 
