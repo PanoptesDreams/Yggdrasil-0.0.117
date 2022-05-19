@@ -58,7 +58,7 @@ Night walk in a Birch Forest
 Art By [BerryBright Art](https://linktr.ee/BerryBrightArt)
 ![Foohberry Painting](https://github.com/PanoptesDreams/Yggdrasil-0.0.117/blob/root/images/Outside%20Painting.png)
 
-Dark Inventory example
+Dark Inventory - Compass - Focus Blur
 ![Inventory Example](https://github.com/PanoptesDreams/Yggdrasil-0.0.117/blob/root/images/Inventory%20Example.png)
 
 Redstone ore in the wild
