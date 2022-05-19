@@ -5,6 +5,21 @@ Yggdrasil built on Minecraft 1.17
 
 ## Requirements
 
+Hardware:
+
+Minimum:
+4GB System Memory
+128MB Video Memory
+540MB+ Disk Storage
+
+Recomended:
+12GB System Memory
+4BG Video Memory
+♾ Disk Storage 
+
+
+Software:
+
 Java 16 ( [OpenJDK](https://jdk.java.net/archive/) | [MS-JDK](https://docs.microsoft.com/en-us/java/openjdk/older-releases#openjdk-16) ) - 
 The Java Virtual Machine provies the core for systems and high portability to multiple platforms
 
